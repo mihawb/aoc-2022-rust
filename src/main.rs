@@ -1,3 +1,5 @@
+mod solutions;
+
 fn main() {
-    println!("Hello, world!");
+    println!("Day 1: Calorie Counting, part 1 -> {}", solutions::day1::part1());
 }
