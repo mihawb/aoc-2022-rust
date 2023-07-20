@@ -13,4 +13,9 @@ fn main() {
 
     println!("Day 3: Rucksack Reorganization, part 1 -> {}", solutions::day03::part1());
     println!("Day 3: Rucksack Reorganization, part 2 -> {}", solutions::day03::part2());
+
+    println!();
+
+    println!("Day 4: Camp Cleanup, part 1 -> {}", solutions::day04::part1());
+    println!("Day 4: Camp Cleanup, part 2 -> {}", solutions::day04::part2());
 }
